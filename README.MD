@@ -1,7 +1,7 @@
 # My first feed-forward neural network
 
 implementations concerning the neural network implementatiom from scratch
-following the Niranj Kumar's tutorial:
+following the Niranjan Kumar's tutorial:
 https://hackernoon.com/building-a-feedforward-neural-network-from-scratch-in-python-d3526457156b
 
 ## Usage
